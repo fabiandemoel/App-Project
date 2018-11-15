@@ -31,11 +31,11 @@ An app that has two types of user profile; one with a simple interface, for gran
  - Edit uploaded content
  
  ## Prerequisites
- Data Sources
+ Data Sources:
  - None, people will provide their own information
- External Components
+ External Components:
  - As of yet none come to mind
- Similar mobile apps
+ Similar mobile apps:
  - Facebook, whatsapp, instagram. They have all the features I'm looking to implement, but lack the specified interface for the technologically challenged. These all work with a stack system, the last added object appears on top of the feed. My system would just work like a simple overview, where date of update will be disregarded at first.
- Hardest part
+ Hardest part:
  - Creating the interconnectivity between users that is required for it to function. Content has to be viewed on one device as it was uploaded on the other. 
