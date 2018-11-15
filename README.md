@@ -36,7 +36,7 @@ An app that has two types of user profile; one with a simple interface, for gran
  
  ## Prerequisites
 1. Data Sources:
- - None, people will provide their own information
+ - None, people will provide their own content
 
 2. External Components:
  - As of yet none come to mind
