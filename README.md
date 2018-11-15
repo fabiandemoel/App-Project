@@ -13,29 +13,29 @@ An app that has two types of user profile; one with a simple interface, for gran
 ## Main features
 1. MVP
  - Log in
- Interface Simple:
+1.1 Interface Simple:
  - Home screen with family/friends their name and picture on it
  - Click a person and an overview of their posts is shown
  - Message interface on the person page
- Interface Complex:
+1.2 Interface Complex:
  - Interface simple
  - Settings menu
  - Content upload possibility
  
  2. Optional
- Interface Simple:
+ 2.1 Interface Simple:
  - Simplified content upload
  - Help menu with ability to allow contacts to change settings remotely
- Interface Complex:
+ 2.2 Interface Complex:
  - Ability to change settings remotely
  - Edit uploaded content
  
  ## Prerequisites
- Data Sources:
+1. Data Sources:
  - None, people will provide their own information
- External Components:
+2. External Components:
  - As of yet none come to mind
- Similar mobile apps:
+3. Similar mobile apps:
  - Facebook, whatsapp, instagram. They have all the features I'm looking to implement, but lack the specified interface for the technologically challenged. These all work with a stack system, the last added object appears on top of the feed. My system would just work like a simple overview, where date of update will be disregarded at first.
- Hardest part:
+ 4. Hardest part:
  - Creating the interconnectivity between users that is required for it to function. Content has to be viewed on one device as it was uploaded on the other. 
