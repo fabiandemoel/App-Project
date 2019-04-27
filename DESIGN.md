@@ -9,14 +9,15 @@ Extra functionality in Normal Variant:
 
 
 ## Utility Modules, Classes and Functions
-
+![Modules](/doc/Modules.png?raw=true "Modules")
 
 
 ## API, frameworks or Plug-ins
-
+An API ran from the flask server
+The build in Image Picker from iOS
 
 
 ## Database tables and fields
-
+![Database](/doc/database.png?raw=true "Database")
 
 
